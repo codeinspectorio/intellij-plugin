@@ -44,7 +44,7 @@ dependencies {
 
     //codiga.yml parsing
     implementation("com.fasterxml.jackson.core:jackson-databind:2.14.1")
-    implementation("com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.14.1")
+    implementation("com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.14.2")
 
     implementation("com.google.code.gson:gson:2.10")
 
