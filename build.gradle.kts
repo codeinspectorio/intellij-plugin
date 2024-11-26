@@ -46,7 +46,7 @@ dependencies {
     implementation("com.fasterxml.jackson.core:jackson-databind:2.14.1")
     implementation("com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.14.1")
 
-    implementation("com.google.code.gson:gson:2.10")
+    implementation("com.google.code.gson:gson:2.10.1")
 
     // markdown support
     implementation("com.github.rjeschke:txtmark:0.13")
